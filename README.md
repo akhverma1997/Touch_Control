@@ -14,7 +14,7 @@ This app can also control the slideshow of powerpoint application using android 
 6. There is help section to send queries regarding the problems faced during the use of the app.
 
 ### Additional Functionalities
-1. This app stores last 10 days od logs in your mobile device.
+1. This app stores last 10 days of logs in your mobile device.
 2. Regarding any problems faced during use of app, You can consider looking at the logs.Logs are the made in default android folder of the app.
 
 ### Link to Desktop Application 
